@@ -81,12 +81,17 @@
 - Достаточный функциональный объём для дальнейших фаз проекта.
 - Возможность последующего расширения системы.
 
+
 ## Материалы первой фазы
 
 - [Подробное описание Фазы 1](phases/phase-01-concept-selection/README.md)
+- [Итоговый отчёт Фазы 1 (DOCX)](phases/phase-01-concept-selection/artifacts/phase-01-report.docx)
+- [Расчётная книга TOPSIS и МАИ (XLSX)](phases/phase-01-concept-selection/artifacts/calculations-topsis-ahp.xlsx)
 - [Расчёты TOPSIS и МАИ в Google Таблицах](https://docs.google.com/spreadsheets/d/1eqROJSJggUz9f7V3TO8Hx18-0x1MoO2HRUv8ptMTKsc/edit?gid=2066966779#gid=2066966779)
 - [Матрица ответственности RACI](RACI.md)
 - [Трекер задач](TASK_TRACKER.md)
+- [GitHub Issues — задачи первой фазы](https://github.com/Shest0pal0v/project-management/issues)
+
 
 ## Организация работы
 
