@@ -87,6 +87,9 @@
 - [Матрица ответственности RACI](RACI.md)
 - [Описание первой фазы](phases/phase-01-concept-selection/README.md)
 - [Расчётные таблицы TOPSIS и МАИ](https://docs.google.com/spreadsheets/d/1eqROJSJggUz9f7V3TO8Hx18-0x1MoO2HRUv8ptMTKsc/edit?gid=2066966779#gid=2066966779)
+- [Итоговый отчёт первой фазы (DOCX)](phases/phase-01-concept-selection/artifacts/phase-01-report.docx)
+- [Расчётная книга TOPSIS и МАИ (XLSX)](phases/phase-01-concept-selection/artifacts/calculations-topsis-ahp.xlsx)
+
 
 ## Последующие фазы
 
